@@ -1,0 +1,8 @@
+---
+- name: testing chocolatey
+  hosts: all
+  tasks:
+  - name: Install notepadplusplus version 6.6
+    win_chocolatey:
+      name: notepadplusplus
+      version: '6.6'
