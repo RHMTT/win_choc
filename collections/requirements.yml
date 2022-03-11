@@ -2,4 +2,4 @@
 collections:
 - name: https://github.com/chocolatey/chocolatey-ansible.git
   type: git
-  version: 1.2.0
+  version: v1.2.0
