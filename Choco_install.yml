@@ -3,6 +3,6 @@
   hosts: all
   tasks:
   - name: Install git
-    chocolatey.win_chocolatey:
+    chocolatey.chocolatey.win_chocolatey:
       name: git
       state: present
