@@ -1,5 +1,5 @@
 ---
 collections:
-  - name: https://github.com/chocolatey/chocolatey-ansible.git
+  - name: https://github.com/chocolatey/chocolatey-ansible/archive/refs/tags/v1.2.0.tar.gz
     type: git
     version: master
