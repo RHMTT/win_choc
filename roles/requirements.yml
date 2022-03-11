@@ -1,4 +1,4 @@
 ---
 collections:
-  - name: https://galaxy.ansible.com/download/chocolatey-chocolatey-1.2.0.tar.gz
+  - name: https://github.com/chocolatey/chocolatey-ansible
     type: git
