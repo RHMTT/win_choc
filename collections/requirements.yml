@@ -1,0 +1,4 @@
+---
+collections:
+  - name: https://github.com/RHMTT/ansible-chocoatey.git
+    type: git
