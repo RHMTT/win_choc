@@ -1,4 +1,4 @@
 ---
 collections:
-  - name: https://github.com/chocolatey/chocolatey-ansible/tree/master/chocolatey
+  - name: https://github.com/chocolatey/chocolatey-ansible/
     type: git
