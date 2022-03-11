@@ -1,5 +1,4 @@
 ---
 collections:
-- name: https://github.com/chocolatey/chocolatey-ansible.git
+- name: https://github.com/RHMTT/ansible-chocoatey.git
   type: git
-  version: v1.2.0
